@@ -1,6 +1,7 @@
 name: chuck-norris-wrapper-service
 title: Chuck Norris Wrapper Service
-version: 1
+version: '1.0'
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
 
